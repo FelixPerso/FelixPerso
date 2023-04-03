@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm Félix ! <br>I am 20 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am looking for :<br>**apprenticeship** in **data science**. I am going to engineer school next year.
+Hi i'm Félix ! <br>I am 20 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am going to engineer school next year.<br>I am looking for :<br>**apprenticeship** in **data science**. 
 
 
 ## 🌐 Socials:
