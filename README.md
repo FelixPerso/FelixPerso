@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm Félix ! <br>I am 20 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am in _**EFREI Paris**_ engineer school .<br>I am in L3 Informatics System and Informations. I am doint it in **apprenticeship** in **data base** at _**ICDC (Informatique de la caisse des dépôts et consignation)**_.
+Hi i'm Félix ! <br>I am 20 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am in _**EFREI Paris**_ engineer school .<br>I am in L3 Informatics System and Informations. <br> I am doint it in **apprenticeship** in **data base** at _**ICDC (Informatique de la caisse des dépôts et consignation)**_.
 
 
 ## 🌐 Socials:
