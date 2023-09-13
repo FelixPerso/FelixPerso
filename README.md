@@ -1,9 +1,9 @@
 # 💫 About Me:
 Hi i'm Félix ! <br>I am 20 years old.<br>
 I'm studying computer science !<br>
-<img src="https://collecter.apprentis-auteuil.org/cdn.iraiser.eu/YIbzhGkk9bX+EtoEinZHNhT8yHPg+ZyDbTkS0OGVfD4w3skiD2FTpVrBrqesA7Ua/Laetitia_Merciris/thumbnail/Logo-Efrei-2017-verticalwhite.png" width="50" height="50">**Student L3 Informatics System and Informations in engineer school at EFREI Paris**
+<img src="https://collecter.apprentis-auteuil.org/cdn.iraiser.eu/YIbzhGkk9bX+EtoEinZHNhT8yHPg+ZyDbTkS0OGVfD4w3skiD2FTpVrBrqesA7Ua/Laetitia_Merciris/thumbnail/Logo-Efrei-2017-verticalwhite.png" width="50" height="50">**Student L3 Informatics System and Informations** in engineer school at **EFREI Paris**
 <br><br>
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_du_Groupe_Caisse_des_D%C3%A9p%C3%B4ts.svg/2030px-Logo_du_Groupe_Caisse_des_D%C3%A9p%C3%B4ts.svg.png" width="50" height="50">**Data base developper in apprenticeship ICDC** (Informatique de la caisse des dépôts et consignation)
+<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_du_Groupe_Caisse_des_D%C3%A9p%C3%B4ts.svg/2030px-Logo_du_Groupe_Caisse_des_D%C3%A9p%C3%B4ts.svg.png" width="50" height="50">**Data base developper** in apprenticeship at **ICDC** (Informatique de la caisse des dépôts et consignation)
 
 
 ## 🌐 Socials:
