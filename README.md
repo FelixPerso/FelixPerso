@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm Félix ! <br>I am 20 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am in _**EFREI Paris**_ engineer school !!<img src="https://collecter.apprentis-auteuil.org/cdn.iraiser.eu/YIbzhGkk9bX+EtoEinZHNhT8yHPg+ZyDbTkS0OGVfD4w3skiD2FTpVrBrqesA7Ua/Laetitia_Merciris/thumbnail/Logo-Efrei-2017-verticalwhite.png" width="50" height="50"><br>I am in L3 Informatics System and Informations. <br> I am doint it in **apprenticeship** in **data base** at _**ICDC (Informatique de la caisse des dépôts et consignation)**_.
+Hi i'm Félix ! <br>I am 20 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br><br><br>I am in _**EFREI Paris**_ engineer school !!<img src="https://collecter.apprentis-auteuil.org/cdn.iraiser.eu/YIbzhGkk9bX+EtoEinZHNhT8yHPg+ZyDbTkS0OGVfD4w3skiD2FTpVrBrqesA7Ua/Laetitia_Merciris/thumbnail/Logo-Efrei-2017-verticalwhite.png" width="50" height="50">I am in L3 Informatics System and Informations. <br><br><br> I am doint it in **apprenticeship** in **data base** at _**ICDC (Informatique de la caisse des dépôts et consignation)**_.<img src="https://www.icdc.caissedesdepots.fr/sites/default/files/inline-images/CAISSE_DES_DEPOTS_LOGO_POS_CMJN.jpg" width="50" height="50">
 
 
 ## 🌐 Socials:
