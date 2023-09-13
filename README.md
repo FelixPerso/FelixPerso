@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi i'm Félix ! <br>I am 20 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am in _**EFREI Paris**_ engineer school !!<img src="https://collecter.apprentis-auteuil.org/cdn.iraiser.eu/YIbzhGkk9bX+EtoEinZHNhT8yHPg+ZyDbTkS0OGVfD4w3skiD2FTpVrBrqesA7Ua/Laetitia_Merciris/thumbnail/Logo-Efrei-2017-verticalwhite.png" width="50" height="50">I am in L3 Informatics System and Informations. <br> I am doint it in **apprenticeship** in **data base** at _**ICDC (Informatique de la caisse des dépôts et consignation)**_.<img src="[https://www.icdc.caissedesdepots.fr/sites/default/files/inline-images/CAISSE_DES_DEPOTS_LOGO_POS_CMJN.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icdc.caissedesdepots.fr%2F&psig=AOvVaw1Kx2k7h7y-QM1MvSb_3uGR&ust=1694713395870000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj42cGRqIEDFQAAAAAdAAAAABAJ)" width="50" height="50">
+Hi i'm Félix ! <br>I am 20 years old.<br>
+I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>
+I am in _**EFREI Paris**_ engineer school !! I am in L3 Informatics System and Informations. <br> 
+I am doint it in **apprenticeship** in **data base** at _**ICDC (Informatique de la caisse des dépôts et consignation)**_ <br>
+
+<img src="[[https://www.icdc.caissedesdepots.fr/sites/default/files/inline-images/CAISSE_DES_DEPOTS_LOGO_POS_CMJN.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icdc.caissedesdepots.fr%2F&psig=AOvVaw1Kx2k7h7y-QM1MvSb_3uGR&ust=1694713395870000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMj42cGRqIEDFQAAAAAdAAAAABAJ)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3ALogo_du_Groupe_Caisse_des_D%25C3%25A9p%25C3%25B4ts.svg&psig=AOvVaw2xG4XBvmbmxgZ_n38vv5mx&ust=1694713532984000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICNkoOSqIEDFQAAAAAdAAAAABAE)" width="50" height="50">
+<img src="https://collecter.apprentis-auteuil.org/cdn.iraiser.eu/YIbzhGkk9bX+EtoEinZHNhT8yHPg+ZyDbTkS0OGVfD4w3skiD2FTpVrBrqesA7Ua/Laetitia_Merciris/thumbnail/Logo-Efrei-2017-verticalwhite.png" width="50" height="50">
 
 
 ## 🌐 Socials:
