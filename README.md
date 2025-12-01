@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm Félix ! <br>I am 21 years old.<br>
+Hi i'm Félix ! <br>I am 22 years old.<br>
 I'm studying computer science !<br>
 <img src="https://collecter.apprentis-auteuil.org/cdn.iraiser.eu/YIbzhGkk9bX+EtoEinZHNhT8yHPg+ZyDbTkS0OGVfD4w3skiD2FTpVrBrqesA7Ua/Laetitia_Merciris/thumbnail/Logo-Efrei-2017-verticalwhite.png" width="50" height="50">**4th year engineering student Informatics System and Informations** in engineer school at **EFREI Paris**
 <br><br>
